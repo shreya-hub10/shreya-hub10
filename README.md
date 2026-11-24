@@ -1,39 +1,30 @@
-Hi, I'm Shreya 
+Hi, I'm Shreya Potdar!
 
 Artificial Intelligence & Machine Learning Engineering Student
 
-I'm an AIML engineering student passionate about learning how technology and AI can solve real-world problems.
- Currently learning Python, Data Science & Machine Learning
- Interested in Artificial Intelligence & Machine Learning  
- Building practical projects and improving my problem-solving skills  
- Working towards becoming internship-ready in AI/ML
+I'm an AIML engineering student interested in Python programming, software development, and Artificial Intelligence.
 
- Skills & Technologies
+I enjoy learning new technologies, building practical projects, and improving my problem-solving skills.
 
-- Languages: Python, C, C++
-- Data Science: NumPy, Pandas, Matplotlib
-- Machine Learning: Scikit-learn
-- Database: SQL
+Technical Skills:
+- Programming: Python, C, C++
+- Data Analysis: Pandas, Matplotlib (basic project experience)
 - Tools: Git, GitHub, VS Code
 
- Currently Learning
-
+Currently Learning:
 - Python for Data Science
+- NumPy and SQL
 - Machine Learning Fundamentals
-- Data Analysis
-- SQL
-- Git & GitHub
-- Generative AI
+- Data Structures and Algorithms
+- Software Development
 
-Goals :
+Projects:
+Credit Card Fraud Rate Visualization:
+- A beginner Python project using Pandas and Matplotlib.
+- Visualizes yearly fraud-rate values using a bar chart and sample data.
 
-- Build strong end-to-end AI/ML projects
-- Contribute to real-world projects
-- Secure an AI/ML internship
-- Continuously improve my technical skills
+Career Goal:
+To strengthen my programming skills, build meaningful projects, and grow as an AI/ML engineer.
 
-Featured Projects
-  -More projects coming soon...
-
-Let's Connect
- -I'm always open to learning, collaborating and working on interesting AI/ML projects.
+Connect With Me:
+- GitHub: "shreya-hub10" (https://github.com/shreya-hub10)
